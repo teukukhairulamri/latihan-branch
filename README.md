@@ -1,3 +1,2 @@
-# Ini adalah repository untuk membuat branch baru di GitHub
---
-GitHub itu asyik lo.
+# Ini adalah repository untuk membuat branch baru di GitHub.
+Belajar GitHub di Dicoding itu seru!
